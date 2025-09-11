@@ -18,3 +18,7 @@ From a solver or service-provider perspective, the same infrastructure appears a
 [Arcadia Whitepaper](https://khalani.network/aip_whitepaper.pdf)
 
 [Arcadia Documentation (coming soon)](#)
+
+# Security and Bug Reports
+
+Please follow reporting instructions described [here](https://github.com/tvl-labs/.github/blob/main/SECURITY.md).
